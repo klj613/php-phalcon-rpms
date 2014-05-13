@@ -6,7 +6,7 @@
 %global __provides_exclude %{_name}.so*
 
 Name:           php53u-%{_name}12
-Version:        1.2.5
+Version:        1.2.6
 Release:        1
 Summary:        A web framework implemented as a C extension
 
